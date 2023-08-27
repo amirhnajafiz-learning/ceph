@@ -1,4 +1,4 @@
-# FunTable
-This algorithm creates an (2n+1)*(2n+1) table with the equal sum of the rows and columns and main diagonal.
+# Do Scripts
 
-Simple algorithm, just check the code and you will undrestand.
+Important and most used terminal commands that I use every day. I call them ```do-scripts``` since
+they are shell scripts in ```.do``` directory.
