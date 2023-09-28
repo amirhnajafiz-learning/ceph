@@ -42,3 +42,4 @@ Cephadm installs and manages a Ceph cluster that uses containers and systemd and
 - [redhat.com/ceph](https://access.redhat.com/webassets/avalon/d/Red_Hat_Ceph_Storage-5-Developer_Guide-en-US/images/7dcdbc34ed0fba01faab0006ee8841a3/RESTful_access.png)
 - [enginedevops.com/minio-ceph](https://enginedevops.com/2023/06/06/minio-vs-ceph/)
 - [opensource.com/running-ceph-inside-docker](https://opensource.com/business/15/7/running-ceph-inside-docker)
+- [github.com/ceph/go-ceph](https://github.com/ceph/go-ceph)
