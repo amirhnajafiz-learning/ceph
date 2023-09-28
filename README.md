@@ -40,3 +40,4 @@ Cephadm installs and manages a Ceph cluster that uses containers and systemd and
 - [docs.ceph.com/rados](https://docs.ceph.com/en/latest/rados/)
 - [docs.ceph.com/conf](https://docs.ceph.com/en/latest/rados/configuration/ceph-conf/)
 - [redhat.com/ceph](https://access.redhat.com/webassets/avalon/d/Red_Hat_Ceph_Storage-5-Developer_Guide-en-US/images/7dcdbc34ed0fba01faab0006ee8841a3/RESTful_access.png)
+- [enginedevops.com/minio-ceph](https://enginedevops.com/2023/06/06/minio-vs-ceph/)
