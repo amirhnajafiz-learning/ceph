@@ -20,6 +20,8 @@ The Ceph Storage Cluster is the foundation for all Ceph deployments. Based upon 
 A Ceph Storage Cluster might contain thousands of storage nodes. A minimal system has at least one Ceph Monitor and two Ceph OSD Daemons for data replication.
 The Ceph File System, Ceph Object Storage and Ceph Block Devices read data from and write data to the Ceph Storage Cluster.
 
+[](https://access.redhat.com/webassets/avalon/d/Red_Hat_Ceph_Storage-5-Developer_Guide-en-US/images/7dcdbc34ed0fba01faab0006ee8841a3/RESTful_access.png)
+
 ## OSD
 
 ```ceph-osd``` is the object storage daemon. It is responsible for storing objects on a local file system and providing access to them over the network.
